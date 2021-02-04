@@ -13,3 +13,5 @@ Today's Quote Of the Day
 > Nothing worth having comes easy
 
 -[x] README complete
+
+adding branch 2
